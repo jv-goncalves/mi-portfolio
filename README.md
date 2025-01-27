@@ -35,21 +35,21 @@
 
 ### 🤖 Automatización IT con Python/VBA  
 - Scripts para optimizar flujos documentales y técnicos  
-- Reducción de tareas repetitivas en un 40%  
+- Generación de documentación relacionada con la actividad de la empresa
 
 ---
 
 ## 📚 **Formación**  
 - **Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
   *IES Fleming (2019-2021)*  
-- **AWS Cloud Practitioner** (En progreso)  
+- Certificacion en Information Technology Fundamentals (IBM)
 - Certificación en Gestión Documental (Confluence/Jira)  
 
 ---
 
 ## 📫 **Contacto**  
 - ✉️ **Email profesional**: s3d.javiervelis@gmail.com  
-- 💼 **LinkedIn**: [Javier VG](https://www.linkedin.com/in/tu-perfil)  
+- 💼 **LinkedIn**: [Javier VG](https://www.linkedin.com/in/javiervelis/)  
 - 🐱 **GitHub**: [jv-goncalves](https://github.com/jv-goncalves)  
 
 ---
