@@ -2,7 +2,6 @@
 **Técnico en Soporte IT | Desarrollador Full-Stack Junior**  
 📍 Oviedo, Principado de Asturias, España  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_VG-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/tu-perfil)
 
 ---
 
