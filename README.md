@@ -12,14 +12,12 @@
 ![C#](https://img.shields.io/badge/C%23-10.0+-239120?logo=c-sharp)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python)
 ![VBA](https://img.shields.io/badge/VBA-Office-217346?logo=microsoft-excel)
-![PHP](https://img.shields.io/badge/PHP-8.0+-777BB4?logo=php)
 ![Java](https://img.shields.io/badge/Java-17+-007396?logo=openjdk)
 
 ### **Soporte IT & DevOps**  
-![Redes](https://img.shields.io/badge/Redes-TCP/IP-009688)
-![AWS](https://img.shields.io/badge/AWS-EC2/S3-FF9900?logo=amazon-aws)
-![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnu-bash)
-![Documentación](https://img.shields.io/badge/Gestión_Documental-Confluence-172B4D?logo=confluence)
+![Microsoft_Stack](https://img.shields.io/badge/Microsoft_Stack-Windows%20Server%7CAzure%7C365-5E5E5E?logo=microsoft)
+![Incidencias](https://img.shields.io/badge/Soporte_Técnico-Nivel_2-0078D4?logo=microsoft-azure-devops)
+![PowerShell](https://img.shields.io/badge/Automatización-PowerShell%2FVBA-5391FE)
 
 ---
 
