@@ -41,7 +41,7 @@
 
 ## 📚 **Formación**  
 - **Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-  *IES Ejemplo (2021-2023)*  
+  *IES Fleming (2019-2021)*  
 - **AWS Cloud Practitioner** (En progreso)  
 - Certificación en Gestión Documental (Confluence/Jira)  
 
